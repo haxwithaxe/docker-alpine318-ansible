@@ -1,6 +1,6 @@
 # Alpine 3.18 Ansible Test Image
 
-[![CI](https://github.com/haxwithaxe/docker-alpine318-ansible/workflows/Build/badge.svg?branch=main&event=push)](https://github.com/haxwithaxe/docker-alpine318-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/haxwithaxe/docker-alpine318-ansible)](https://hub.docker.com/r/haxwithaxe/docker-alpine318-ansible/)
+[![CI](https://github.com/haxwithaxe/docker-alpine318-ansible/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/haxwithaxe/docker-alpine318-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/haxwithaxe/docker-alpine318-ansible)](https://hub.docker.com/r/haxwithaxe/docker-alpine318-ansible/)
 
 Alpine 3.18 Docker container for Ansible playbook and role testing.
 
